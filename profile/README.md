@@ -47,9 +47,10 @@ We build with and around:
 
 ## 📚 Publications & Architecture
 
-- 📄 [Federated Composable Datastack](https://plugin-healthcare.github.io/federated-composable-datastack/) — working paper
-- 🏛️ [C4 Software Architecture](https://plugin-healthcare.github.io/plugin-c4-software-architecture/) — interactive architecture diagrams
 - 📖 [PLUGIN Handbook](https://plugin-healthcare.github.io/handbook/) — comprehensive documentation (Dutch & English)
+- 🏛️ [C4 Software Architecture](https://plugin-healthcare.github.io/plugin-c4-software-architecture/) — interactive architecture diagrams
+- 📄 [Data Interoperability in Context](https://www.jmir.org/2025/1/e66616/authors) — peer-reviewd journal paper on the importance of open-source implementations when choosing standards
+
 
 ---
 
