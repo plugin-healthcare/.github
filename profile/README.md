@@ -6,7 +6,7 @@
 
 ## 🏥 What is PLUGIN?
 
-PLUGIN (Patiëntdata Landelijk Integreren voor Klinische en INnovatieve toepassingen) is a national initiative building the technical and semantic infrastructure for **federated, composable health data spaces** in the Netherlands. We work at the intersection of clinical informatics, data engineering, and open standards.
+PLUGIN (**Pl**atform voor **U**itwisseling en Her*g*ebruik van Kl**i**nische Data **N**ederland) is a national initiative building the technical and semantic infrastructure for **federated, composable health data spaces** in the Netherlands. We work at the intersection of clinical informatics, data engineering, and open standards.
 
 Our platform enables:
 
