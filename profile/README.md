@@ -21,7 +21,7 @@ Our platform enables:
 
 | Repository | Description |
 |---|---|
-| [website](https://github.com/plugin-healthcare/plugin-healthcare-github.io) | homebase of all things PLUGIN |
+| [website](https://github.com/plugin-healthcare/plugin-healthcare.github.io) | homebase of all things PLUGIN |
 | [pluginlake](https://github.com/plugin-healthcare/pluginlake) | Federated data lake — the core platform |
 | [implementation-guide](https://github.com/plugin-healthcare/implementation-guide) | FHIR Implementation Guide for PLUGIN |
 | [plugin-rosetta](https://github.com/plugin-healthcare/plugin-rosetta) | Integration of information models, schemas and mappings in LinkML |
