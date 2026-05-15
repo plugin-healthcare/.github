@@ -21,6 +21,7 @@ Our platform enables:
 
 | Repository | Description |
 |---|---|
+| [website](https://github.com/plugin-healthcare/plugin-healthcare-github.io) | homebase of all things PLUGIN |
 | [pluginlake](https://github.com/plugin-healthcare/pluginlake) | Federated data lake — the core platform |
 | [implementation-guide](https://github.com/plugin-healthcare/implementation-guide) | FHIR Implementation Guide for PLUGIN |
 | [plugin-rosetta](https://github.com/plugin-healthcare/plugin-rosetta) | Integration of information models, schemas and mappings in LinkML |
@@ -28,7 +29,7 @@ Our platform enables:
 | [plugin-architecture](https://github.com/plugin-healthcare/plugin-architecture) | Platform architecture in C4 model |
 | [data-station-specification](https://github.com/plugin-healthcare/data-station-specification) | Specification of composable data stations |
 | [federated-composable-datastack](https://github.com/plugin-healthcare/federated-composable-datastack) | Reference architecture working paper |
-| [handbook](https://github.com/plugin-healthcare/handbook) | PLUGIN handbook — all things PLUGIN |
+
 
 ---
 
