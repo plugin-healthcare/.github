@@ -25,8 +25,8 @@ Our platform enables:
 | [architectuur](https://github.com/plugin-healthcare/architectuur) | Platform architecture described in arc42 template and C4 software engineering model |
 | [implementation-guide](https://github.com/plugin-healthcare/implementation-guide) | FHIR Implementation Guide for PLUGIN |
 | [pluginlake](https://github.com/plugin-healthcare/pluginlake) | Federated data lake — the core platform |
-| [plugin-rosetta](https://github.com/plugin-healthcare/linkml-rosetta) | Integration of information models, schemas and mappings in LinkML |
-| [plugin-link](https://github.com/plugin-healthcare/linkml-viewer) | Interactive ERD viewer for LinkML schemas |
+| [linkml-rosetta](https://github.com/plugin-healthcare/linkml-rosetta) | Integration of information models, schemas and mappings in LinkML |
+| [link-viewer](https://github.com/plugin-healthcare/linkml-viewer) | Interactive ERD viewer for LinkML schemas |
 | [data-station-specification](https://github.com/plugin-healthcare/data-station-specification) | Specification of composable data stations |
 | [federated-composable-datastack](https://github.com/plugin-healthcare/federated-composable-datastack) | Working paper (in progress) |
 
